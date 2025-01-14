@@ -24,6 +24,8 @@ This project involves creating and managing multiple tables, performing various 
     - Relations: `book_id` points to a Book in  books Table, same thing with `member_id`
 
 ### ERD Diagram
+![image](https://github.com/user-attachments/assets/1d690303-e323-4bab-bc70-0a3ebdf93df0)
+
 
 ### Skills Applied
 1. **Data Definition Language (DDL):**
